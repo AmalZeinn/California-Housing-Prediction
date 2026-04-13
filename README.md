@@ -10,4 +10,3 @@
 * **Model:** Developed and trained a **Random Forest Regressor**.
 * **Performance:** Achieved an **82% R-squared score** on the test set.
 
-[ View Project on GitHub](https://github.com/AmalZeinn/California-Housing-Prediction)
